@@ -1,8 +1,8 @@
 name: "Jekyll true minimal theme"
 description: "Lightweight theme"
 
-url: "https://icea-conf.github.io/2020"
-baseurl: "2020"
+url: "https://icea-conf.github.io/2023"
+baseurl: "2023"
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
